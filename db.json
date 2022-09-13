@@ -1,0 +1,46 @@
+{
+    "users": [
+      {
+        "name": "Al",
+        "email": "al@gmail.com",
+        "phone": "082273782871",
+        "address": "Indonesia",
+        "id": 1
+      },
+      {
+        "name": "Rian",
+        "email": "rian@gmail.com",
+        "phone": "081373782874",
+        "address": "Indonesia",
+        "id": 2
+      },
+      {
+        "name": "Ram",
+        "email": "ram@gmail.com",
+        "phone": "082273782873",
+        "address": "Indonesia",
+        "id": 3
+      },
+      {
+        "name": "Sace",
+        "email": "sace@gmail.com",
+        "phone": "0822737288288",
+        "address": "Indonesia",
+        "id": 4
+      },
+      {
+        "name": "dtd",
+        "email": "fxf@wsws.com",
+        "phone": "123651273",
+        "address": "qhfsqwheqw",
+        "id": 5
+      },
+      {
+        "name": "wkwkw",
+        "email": "wkwkw@gmail.com",
+        "phone": "0290139019",
+        "address": "kwkwk land",
+        "id": 6
+      }
+    ]
+  }
